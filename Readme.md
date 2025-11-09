@@ -50,7 +50,7 @@ Reporting: I used the .map() array method to transform the reservations array in
 
 Modular Architecture (ES6 Modules):
 
-To keep the project clean and scalable, I split each class into its own file (e.g., Vehicle.js, Pilot.js).
+To keep the project clean and scalable, I split each class into its own file (e.g., callfunction.js, assignVehicleId).
 
 I used export from within each class file and import in my main script to manage dependencies effectively.
 
